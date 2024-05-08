@@ -1,1 +1,2 @@
 # Gradient_descent
+This project investigates the gradient descent method on the House Pricing dataset without the use of specialized machine learning libraries. Gradient descent is a fundamental optimization algorithm used in various machine learning tasks, including predicting house prices. Implementing gradient descent from scratch allows for a deeper understanding of its underlying principles and mechanics.
